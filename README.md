@@ -24,5 +24,8 @@ Stages:
    - Output "foo" where the number is divisible by 3
    - Output "bar" where the number is divisible by 5
    - Output "foobar" where the number is divisible by 3 and 5
+
 All the scripts, works were developed on MAC environment
-Database has been created in DreamHost.
+
+Database has been created in DreamHost - Host: mysql.saintpegasus1984.com
+   - Details can be found in catacsv.sql document.
