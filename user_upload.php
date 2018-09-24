@@ -18,12 +18,12 @@ if($con)
        $table=rtrim($_FILES['csvfile']['name'],".csv");
        if($i==0)
        {
-          $name = ucfirst($name);
+          $name = ucfirst($name);//Change first letter into upcase.
           $name=$cont[0];
           $surname = ucfirst($surname);
           $surname=$cont[1];
           //$email=$cont[2];
-          $email = filter_var($email, FILTER_VALIDATE_EMAIL);
+          $email = filter_var($email, FILTER_VALIDATE_EMAIL); //Validate email
           if(filter_var($email, FILTER_VALIDATE_EMAIL)                  
           {               
              $email = strtolower($email);
