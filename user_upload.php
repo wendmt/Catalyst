@@ -2,10 +2,10 @@
 
 <?php
 
-$servername = "mysql.saintpegasus1984.com";
-$username = "aaronwen";
-$password = "taon2293!";
-$dbname = "catacsv";
+$servername = "localhost";
+$username = "root";
+$password = "";
+$dbname = "dba";
 
 $con=mysqli($servername, $username, $password, $dbname);
 
