@@ -19,7 +19,7 @@ Stages:
    - Database created without tables
    - Create table via php script
    - Insert data into table
-4. Create foobar.php
+4. CreaAllte foobar.php
    - Output number from 1 to 100
    - Output "foo" where the number is divisible by 3
    - Output "bar" where the number is divisible by 5
@@ -29,3 +29,4 @@ All the scripts, works were developed on MAC environment
 
 Database has been created in DreamHost - Host: mysql.saintpegasus1984.com
    - Details can be found in catacsv.sql document.
+All the scripts, works were developed in last week, and have been upload to github on Monday 24th September
