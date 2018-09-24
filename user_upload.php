@@ -1,3 +1,5 @@
+#!/usr/bin/php7
+
 <?php
 
 $servername = "mysql.saintpegasus1984.com";
